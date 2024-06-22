@@ -21,7 +21,7 @@ struct ContentView: View {
                 } else if self.index == 3 {
                    MediaView()
                     
-                } else {
+                } else { 
                     ProfileView()
                 }
                 
